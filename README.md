@@ -1,0 +1,2 @@
+# EMERGENCY-VEHICLES-ON-ROAD-NETWORKS-A-NOVEL-GENERATED-DATASET-USING-GANs
+This dataset contains 20,000 images of emergency vehicles (ambulances, police cars, fire trucks) collected from real-world scenarios and augmented using standard techniques and GANs. It is designed for training and validating machine learning models, particularly CNNs, to accurately detect emergency vehicles and enhance road safety.
