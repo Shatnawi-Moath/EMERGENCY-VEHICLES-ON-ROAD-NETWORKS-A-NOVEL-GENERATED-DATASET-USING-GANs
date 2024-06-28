@@ -12,7 +12,7 @@ Please cite the following research paper when using this dataset:
 ## Figures and Tables
 
 ### Figure 1: Samples images collected during video recording
-![Figure 1](E:\Master\thieses\Slides/sample2.jpg)
+![Figure 1](E:/Master/thieses/Slides/sample2.jpg)
 
 Figure 1 displays a selection of images collected during video recording sessions aimed at capturing real-world scenarios of emergency vehicles. These images were meticulously chosen to represent diverse situations and lighting conditions typically encountered on road networks, ensuring the dataset's richness and applicability in training machine learning models.
 
