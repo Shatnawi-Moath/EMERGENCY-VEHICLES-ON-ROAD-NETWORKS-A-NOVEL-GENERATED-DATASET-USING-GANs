@@ -67,6 +67,6 @@ Figure 4 presents the training and learning results of the CNN model on the fina
 Table 3 presents the results of 10-fold cross-validation performed on the final dataset. This analysis evaluates the CNN model's performance across multiple folds, demonstrating its consistency and reliability in classifying emergency vehicles under varying conditions.
 
 ### Figure 5: Improvement in 10-fold cross-validation results before and after augmentation
-![Figure 5](/Src/Others/COMPARATIVE k-fold.jpg)
+![Figure 5](/Src/Others/k-fold.jpg)
 
 Figure 5 visualizes the comparative analysis of 10-fold cross-validation results before and after dataset augmentation. It illustrates how augmentation techniques enhanced the model's performance metrics, showcasing the significant improvements in accuracy, precision, recall, and F1-score achieved through increased dataset diversity and robust training methodologies.
