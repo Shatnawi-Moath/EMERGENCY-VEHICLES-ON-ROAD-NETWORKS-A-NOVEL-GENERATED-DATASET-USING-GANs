@@ -21,6 +21,7 @@ Figure 1 displays a selection of images collected during video recording session
 
 Figure 2 visually explains the intricate process of image generation using Generative Adversarial Networks (GANs). The generator starts with random noise and progressively refines it through multiple layers, ultimately creating realistic images of emergency vehicles. Meanwhile, the discriminator critically evaluates these generated images to distinguish them from actual data, ensuring the authenticity and quality of the synthetic dataset.
 
+
 ### Table 1: GANs model parameters
 | Parameter      | Value              |
 |----------------|--------------------|
