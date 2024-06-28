@@ -17,7 +17,7 @@ Please cite the following research paper when using this dataset:
 Figure 1 displays a selection of images collected during video recording sessions aimed at capturing real-world scenarios of emergency vehicles. These images were meticulously chosen to represent diverse situations and lighting conditions typically encountered on road networks, ensuring the dataset's richness and applicability in training machine learning models.
 
 ### Figure 2: GANs Image Generation Process
-<iframe src="https://drive.google.com/file/d/1BGlj5LgEB7clKzHGXgD5xdnSSSzOI62s/preview" width="640" height="480" allow="autoplay"></iframe>
+![Figure 2](/Src/Others/GANs model.jpg)
 
 
 
@@ -37,7 +37,7 @@ Figure 1 displays a selection of images collected during video recording session
 Table 1 provides an overview of the key parameters utilized in the Generative Adversarial Network (GANs) model for generating synthetic images of emergency vehicles. These parameters were carefully selected and tuned to optimize the model's ability to produce diverse and realistic images essential for training robust machine learning algorithms.
 
 ### Figure 3: Samples images generated during various epochs
-![Figure 3](path/to/figure3.png)
+![Figure 3](/Src/Others/GANs sample.jpg)
 
 Figure 3 showcases a series of sample images generated at different epochs during the GANs training process. These images illustrate the evolution and refinement of the generated dataset over time, demonstrating the model's learning progression and its capacity to generate increasingly realistic representations of emergency vehicles.
 
@@ -52,9 +52,8 @@ Figure 3 showcases a series of sample images generated at different epochs durin
 Table 2 summarizes the performance metrics of the Convolutional Neural Network (CNN) on the final dataset of emergency vehicle images. These metrics highlight the CNN's effectiveness in accurately classifying emergency vehicles, crucial for enhancing road safety measures through automated detection and response systems.
 
 ### Figure 4: Training and Learning Results on Final Dataset
-![Figure 4a](path/to/figure4a.png)
-![Figure 4b](path/to/figure4b.png)
-
+![Figure 4a](/Src/Others/learningCurve.png)
+![Figure 4b](/Src/Others/accurecycurve.png)
 Figure 4 presents the training and learning results of the CNN model on the final dataset. Subfigure (a) depicts the training learning curve, showing the model's loss reduction and convergence over epochs. Subfigure (b) visualizes the training accuracy learning curve, illustrating the model's improvement in accuracy as it learns to distinguish emergency vehicles from background noise and other objects.
 
 ### Table 3: 10-fold cross-validation results on the final dataset
@@ -68,6 +67,6 @@ Figure 4 presents the training and learning results of the CNN model on the fina
 Table 3 presents the results of 10-fold cross-validation performed on the final dataset. This analysis evaluates the CNN model's performance across multiple folds, demonstrating its consistency and reliability in classifying emergency vehicles under varying conditions.
 
 ### Figure 5: Improvement in 10-fold cross-validation results before and after augmentation
-![Figure 5](path/to/figure5.png)
+![Figure 5](/Src/Others/COMPARATIVE k-fold.jpg)
 
 Figure 5 visualizes the comparative analysis of 10-fold cross-validation results before and after dataset augmentation. It illustrates how augmentation techniques enhanced the model's performance metrics, showcasing the significant improvements in accuracy, precision, recall, and F1-score achieved through increased dataset diversity and robust training methodologies.
