@@ -12,14 +12,13 @@ Please cite the following research paper when using this dataset:
 ## Figures and Tables
 
 ### Figure 1: Samples images collected during video recording
-![Figure 1](E:/Master/thieses/Slides/sample2.jpg)
+![Figure 1](E:\Master\thieses\Slides\sample2.jpg)
 
 Figure 1 displays a selection of images collected during video recording sessions aimed at capturing real-world scenarios of emergency vehicles. These images were meticulously chosen to represent diverse situations and lighting conditions typically encountered on road networks, ensuring the dataset's richness and applicability in training machine learning models.
 
 ### Figure 2: GANs Image Generation Process
 <iframe src="https://drive.google.com/file/d/1BGlj5LgEB7clKzHGXgD5xdnSSSzOI62s/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Figure 2 visually explains the intricate process of image generation using Generative Adversarial Networks (GANs). The generator starts with random noise and progressively refines it through multiple layers, ultimately creating realistic images of emergency vehicles. Meanwhile, the discriminator critically evaluates these generated images to distinguish them from actual data, ensuring the authenticity and quality of the synthetic dataset.
 
 ### Table 1: GANs model parameters
 | Parameter      | Value              |
